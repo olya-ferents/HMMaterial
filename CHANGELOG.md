@@ -29,3 +29,11 @@ Evidence:
   behavior.
 - `base.v1.1.md` section 6 requires knowledge-base retrieval and prohibits
   inferred product details.
+- `../specs/requirements/specification-review.md` section 4 records test
+  questions, observed responses, traces, and acceptance criteria for the three
+  revised requirements.
+
+Not included in v1.1:
+- The separately proposed rule requiring explicit write-tool success
+  confirmation was not added. Section 4 retains the general minimal-tool-call
+  instruction.
